@@ -1,0 +1,5 @@
+package com.magna.demo;
+
+public class WsConfigurerAdapter {
+
+}

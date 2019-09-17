@@ -1,0 +1,399 @@
+2019-09-17 07:54:40,564 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.magna:demo:0.0.1-SNAPSHOT @ C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\pom.xml.
+2019-09-17 07:54:51,838 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://172.26.20.144:8081/nexus/content/groups/public/org/springframework/boot/spring-boot-devtools/2.1.8.RELEASE/spring-boot-devtools-2.1.8.RELEASE.pom
+2019-09-17 07:54:58,982 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/main/java
+2019-09-17 07:54:58,983 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2019-09-17 07:54:58,997 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2019-09-17 07:54:59,006 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/test/java
+2019-09-17 07:55:06,978 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 36 sec
+2019-09-17 07:55:09,141 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 07:55:09,146 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-17 07:55:09,161 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-17 07:55:09,164 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 07:55:09,164 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\src\test\resources
+2019-09-17 07:57:08,268 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-09-17 07:57:21,510 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Development\workspaces\porto-seguro\demo-spring-boot\demo
+2019-09-17 07:57:21,510 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean package install
+2019-09-17 07:59:42,038 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-09-17 07:59:42,966 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.magna:demo:0.0.1-SNAPSHOT @ C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\pom.xml.
+2019-09-17 07:59:44,671 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/main/java
+2019-09-17 07:59:44,671 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2019-09-17 07:59:44,671 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2019-09-17 07:59:44,679 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/test/java
+2019-09-17 07:59:45,009 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2019-09-17 07:59:46,134 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 07:59:46,136 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-17 07:59:46,172 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-17 07:59:46,182 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 07:59:46,190 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\src\test\resources
+2019-09-17 08:55:08,277 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.magna:demo:0.0.1-SNAPSHOT @ C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\pom.xml.
+2019-09-17 08:55:10,068 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 08:55:10,093 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-17 08:55:10,100 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-17 08:55:10,102 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 08:55:10,108 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\src\test\resources
+2019-09-17 08:55:11,959 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 08:55:11,962 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-17 08:55:11,974 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-17 08:55:11,983 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 08:55:11,989 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\src\test\resources
+2019-09-17 09:09:53,177 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://172.26.20.144:8081/nexus/content/groups/public/org/springframework/boot/spring-boot-maven-plugin/1.6/spring-boot-maven-plugin-1.6.pom
+2019-09-17 09:09:53,353 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.magna:demo:0.0.1-SNAPSHOT @ C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\pom.xml.
+2019-09-17 09:10:16,222 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.magna:demo:0.0.1-SNAPSHOT @ C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\pom.xml.
+2019-09-17 09:10:33,125 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://172.26.20.144:8081/nexus/content/groups/public/org/springframework/boot/spring-boot-maven-plugin/2.1.8/spring-boot-maven-plugin-2.1.8.pom
+2019-09-17 09:10:33,308 [Worker-37] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.magna:demo:0.0.1-SNAPSHOT @ C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\pom.xml.
+2019-09-17 09:13:19,717 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.magna:demo:0.0.1-SNAPSHOT @ C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\pom.xml.
+2019-09-17 09:13:42,815 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-09-17 09:13:42,895 [Worker-36] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Development\workspaces\porto-seguro\demo-spring-boot\demo
+2019-09-17 09:13:42,904 [Worker-36] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean package install
+2019-09-17 09:14:33,712 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.magna:demo:0.0.1-SNAPSHOT @ C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\pom.xml.
+2019-09-17 09:14:39,694 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-09-17 09:14:39,770 [Worker-36] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Development\workspaces\porto-seguro\demo-spring-boot\demo
+2019-09-17 09:14:39,776 [Worker-36] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean package install
+2019-09-17 09:15:09,955 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.magna:demo:0.0.1-SNAPSHOT @ C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\pom.xml.
+2019-09-17 09:15:11,181 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 09:15:11,192 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-17 09:15:11,199 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-17 09:15:11,201 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 09:15:11,208 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\src\test\resources
+2019-09-17 09:15:16,903 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-09-17 09:15:16,982 [Worker-40] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Development\workspaces\porto-seguro\demo-spring-boot\demo
+2019-09-17 09:15:16,983 [Worker-40] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean package install
+2019-09-17 09:15:48,735 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-09-17 09:15:57,962 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Development\workspaces\porto-seguro\demo-spring-boot\demo
+2019-09-17 09:15:57,969 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B mvn compile
+2019-09-17 09:16:19,234 [Worker-37] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Development\workspaces\porto-seguro\demo-spring-boot\demo
+2019-09-17 09:16:19,241 [Worker-37] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B compile
+2019-09-17 09:16:48,565 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 09:16:48,573 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-17 09:16:48,580 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-17 09:16:48,589 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 09:16:48,589 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\src\test\resources
+2019-09-17 09:17:16,435 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 09:17:16,438 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-17 09:17:16,446 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-17 09:17:16,460 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 09:17:16,467 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\src\test\resources
+2019-09-17 09:19:10,577 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.magna:demo:0.0.1-SNAPSHOT @ C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\pom.xml.
+2019-09-17 09:19:14,090 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Development\workspaces\porto-seguro\demo-spring-boot\demo
+2019-09-17 09:19:14,096 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B compile
+2019-09-17 09:19:47,255 [Worker-36] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Development\workspaces\porto-seguro\demo-spring-boot\demo
+2019-09-17 09:19:47,255 [Worker-36] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean package install
+2019-09-17 09:35:35,230 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-09-17 09:35:44,184 [Worker-42] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Development\workspaces\porto-seguro\demo-spring-boot\demo
+2019-09-17 09:35:44,196 [Worker-42] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B compile
+2019-09-17 09:36:36,001 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework.boot:spring-boot-maven-plugin:jar:2.1.8 is missing, no dependency information available
+2019-09-17 09:36:36,027 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework.boot:spring-boot-maven-plugin:jar:2.1.8 is missing, no dependency information available
+2019-09-17 09:36:36,050 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework.boot:spring-boot-maven-plugin:jar:2.1.8 is missing, no dependency information available
+2019-09-17 09:36:36,263 [Worker-34] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.magna:demo:0.0.1-SNAPSHOT @ C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\pom.xml.
+2019-09-17 09:36:38,782 [Worker-44] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Development\workspaces\porto-seguro\demo-spring-boot\demo
+2019-09-17 09:36:38,791 [Worker-44] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B compile
+2019-09-17 09:37:04,112 [Worker-45] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.magna:demo:0.0.1-SNAPSHOT @ C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\pom.xml.
+2019-09-17 09:37:06,034 [Worker-47] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Development\workspaces\porto-seguro\demo-spring-boot\demo
+2019-09-17 09:37:06,043 [Worker-47] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B compile
+2019-09-17 09:49:09,135 [Worker-50] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Development\workspaces\porto-seguro\demo-spring-boot\demo
+2019-09-17 09:49:09,135 [Worker-50] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B compile
+2019-09-17 09:55:30,650 [Worker-50] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.magna:demo:0.0.1-SNAPSHOT @ C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\pom.xml.
+2019-09-17 09:55:37,369 [Worker-50] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Development\workspaces\porto-seguro\demo-spring-boot\demo
+2019-09-17 09:55:37,376 [Worker-50] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B compile
+2019-09-17 09:55:53,129 [Worker-54] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Development\workspaces\porto-seguro\demo-spring-boot\demo
+2019-09-17 09:55:53,136 [Worker-54] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B compile
+2019-09-17 09:56:02,375 [Worker-58] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Development\workspaces\porto-seguro\demo-spring-boot\demo
+2019-09-17 09:56:02,383 [Worker-58] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B repackage compile
+2019-09-17 09:56:14,848 [Worker-56] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Development\workspaces\porto-seguro\demo-spring-boot\demo
+2019-09-17 09:56:14,854 [Worker-56] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B repackage compile
+2019-09-17 09:56:18,232 [Worker-50] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Development\workspaces\porto-seguro\demo-spring-boot\demo
+2019-09-17 09:56:18,238 [Worker-50] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean package install
+2019-09-17 09:59:51,741 [Worker-59] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.magna:demo:0.0.1-SNAPSHOT @ C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\pom.xml.
+2019-09-17 10:01:43,829 [Worker-50] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://172.26.20.144:8081/nexus/content/groups/public/org/codehaus/mojo/jaxb2-maven-plugin/1.6/jaxb2-maven-plugin-1.6.pom
+2019-09-17 10:01:44,057 [Worker-50] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.magna:demo:0.0.1-SNAPSHOT @ C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\pom.xml.
+2019-09-17 10:01:44,846 [Worker-61] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Development\workspaces\porto-seguro\demo-spring-boot\demo
+2019-09-17 10:01:44,852 [Worker-61] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B repackage compile
+2019-09-17 10:02:01,956 [Worker-53] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Development\workspaces\porto-seguro\demo-spring-boot\demo
+2019-09-17 10:02:01,957 [Worker-53] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B compile
+2019-09-17 10:03:34,844 [Worker-62] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-09-17 10:03:41,729 [Worker-62] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.magna:demo:0.0.1-SNAPSHOT @ C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\pom.xml.
+2019-09-17 10:03:48,533 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2019-09-17 10:03:49,677 [Worker-62] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/main/java
+2019-09-17 10:03:49,684 [Worker-62] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2019-09-17 10:03:49,690 [Worker-62] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2019-09-17 10:03:49,696 [Worker-62] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/test/java
+2019-09-17 10:03:49,900 [Worker-62] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 15 sec
+2019-09-17 10:04:00,194 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2019-09-17 10:04:00,207 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 10:04:00,208 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-17 10:04:00,223 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-17 10:04:00,242 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 10:04:00,249 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\src\test\resources
+2019-09-17 10:05:16,298 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Generating source...
+2019-09-17 10:05:16,344 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - fazendo parse de um esquema...
+2019-09-17 10:05:16,561 [Worker-53] ERROR o.e.m.c.i.embedder.EclipseLogger - file:/C:/Development/workspaces/porto-seguro/demo-spring-boot/demo/src/main/resources/student.xsd[1,1] Fim prematuro do arquivo.
+org.xml.sax.SAXParseException: Fim prematuro do arquivo.
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:203) ~[na:1.8.0_221]
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:177) ~[na:1.8.0_221]
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:400) [na:1.8.0_221]
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:327) [na:1.8.0_221]
+	at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1472) [na:1.8.0_221]
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(XMLDocumentScannerImpl.java:1014) [na:1.8.0_221]
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:602) [na:1.8.0_221]
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(XMLNSDocumentScannerImpl.java:112) [na:1.8.0_221]
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:505) [na:1.8.0_221]
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:842) [na:1.8.0_221]
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:771) [na:1.8.0_221]
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141) [na:1.8.0_221]
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213) [na:1.8.0_221]
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:643) [na:1.8.0_221]
+	at com.sun.org.apache.xerces.internal.impl.xs.traversers.XSDHandler.getSchemaDocument(XSDHandler.java:2280) [na:1.8.0_221]
+	at com.sun.org.apache.xerces.internal.impl.xs.traversers.XSDHandler.parseSchema(XSDHandler.java:565) [na:1.8.0_221]
+	at com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaLoader.loadSchema(XMLSchemaLoader.java:610) [na:1.8.0_221]
+	at com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaLoader.loadGrammar(XMLSchemaLoader.java:569) [na:1.8.0_221]
+	at com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaLoader.loadGrammar(XMLSchemaLoader.java:535) [na:1.8.0_221]
+	at com.sun.org.apache.xerces.internal.jaxp.validation.XMLSchemaFactory.newSchema(XMLSchemaFactory.java:254) [na:1.8.0_221]
+	at com.sun.tools.xjc.reader.xmlschema.parser.SchemaConstraintChecker.check(SchemaConstraintChecker.java:109) [jaxb-xjc-2.2.7.jar:2.2.7]
+	at com.sun.tools.xjc.ModelLoader.loadXMLSchema(ModelLoader.java:360) [jaxb-xjc-2.2.7.jar:2.2.7]
+	at com.sun.tools.xjc.ModelLoader.load(ModelLoader.java:174) [jaxb-xjc-2.2.7.jar:2.2.7]
+	at com.sun.tools.xjc.ModelLoader.load(ModelLoader.java:119) [jaxb-xjc-2.2.7.jar:2.2.7]
+	at com.sun.tools.xjc.Driver.run(Driver.java:333) [jaxb-xjc-2.2.7.jar:2.2.7]
+	at org.codehaus.mojo.jaxb2.AbstractXjcMojo.execute(AbstractXjcMojo.java:316) [jaxb2-maven-plugin-1.6.jar:na]
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:134) [maven-core-3.3.3.jar:3.3.3]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:331) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$11.call(MavenImpl.java:1362) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$11.call(MavenImpl.java:1) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1360) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.project.configurator.MojoExecutionBuildParticipant.build(MojoExecutionBuildParticipant.java:52) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilderImpl.build(MavenBuilderImpl.java:137) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$1.method(MavenBuilder.java:172) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$1.method(MavenBuilder.java:1) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1$1.call(MavenBuilder.java:115) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:105) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.7.0.v20150402-1709.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:205) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:245) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:300) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.7.0.v20150402-1709.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:303) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:359) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:382) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:144) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+2019-09-17 10:05:16,614 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Falha ao fazer parse de um esquema.
+2019-09-17 10:05:16,636 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 10:05:16,639 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-17 10:05:16,653 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-17 10:05:16,657 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 10:05:16,657 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\src\test\resources
+2019-09-17 10:05:21,189 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Generating source...
+2019-09-17 10:05:21,208 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - fazendo parse de um esquema...
+2019-09-17 10:05:21,488 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - compilando um esquema...
+2019-09-17 10:05:21,569 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - https\www_howtodoinjava_com\xml\school\ObjectFactory.java
+2019-09-17 10:05:21,591 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - https\www_howtodoinjava_com\xml\school\Student.java
+2019-09-17 10:05:21,612 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - https\www_howtodoinjava_com\xml\school\StudentDetailsRequest.java
+2019-09-17 10:05:21,629 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - https\www_howtodoinjava_com\xml\school\StudentDetailsResponse.java
+2019-09-17 10:05:21,646 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - https\www_howtodoinjava_com\xml\school\package-info.java
+2019-09-17 10:05:21,654 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - com\baeldung\springsoap\gen\Country.java
+2019-09-17 10:05:21,675 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - com\baeldung\springsoap\gen\Currency.java
+2019-09-17 10:05:21,691 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - com\baeldung\springsoap\gen\GetCountryRequest.java
+2019-09-17 10:05:21,704 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - com\baeldung\springsoap\gen\GetCountryResponse.java
+2019-09-17 10:05:21,726 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - com\baeldung\springsoap\gen\ObjectFactory.java
+2019-09-17 10:05:21,738 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - com\baeldung\springsoap\gen\package-info.java
+2019-09-17 10:05:21,801 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 10:05:21,801 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-17 10:05:21,802 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-17 10:05:21,819 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 10:05:21,819 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\src\test\resources
+2019-09-17 10:05:29,483 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2019-09-17 10:05:29,486 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 10:05:29,486 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-17 10:05:29,487 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-09-17 10:05:29,489 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 10:05:29,489 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\src\test\resources
+2019-09-17 10:08:04,547 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2019-09-17 10:08:04,894 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 10:08:04,901 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-17 10:08:04,921 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-09-17 10:08:04,924 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 10:08:04,925 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\src\test\resources
+2019-09-17 10:08:37,052 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2019-09-17 10:08:37,066 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 10:08:37,069 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-17 10:08:37,070 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-17 10:08:37,113 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 10:08:37,114 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\src\test\resources
+2019-09-17 10:09:15,560 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Development\workspaces\porto-seguro\demo-spring-boot\demo
+2019-09-17 10:09:15,561 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean compile
+2019-09-17 10:09:29,739 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-09-17 10:09:30,809 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.magna:demo:0.0.1-SNAPSHOT @ C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\pom.xml.
+2019-09-17 10:09:32,740 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2019-09-17 10:09:32,932 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/main/java
+2019-09-17 10:09:32,933 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2019-09-17 10:09:32,933 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2019-09-17 10:09:32,941 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/test/java
+2019-09-17 10:09:33,227 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2019-09-17 10:09:34,846 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2019-09-17 10:09:34,865 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 10:09:34,874 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-17 10:09:34,898 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-17 10:09:34,920 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 10:09:34,920 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\src\test\resources
+2019-09-17 10:09:57,132 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2019-09-17 10:09:57,135 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 10:09:57,138 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-17 10:09:57,140 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-17 10:09:57,152 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 10:09:57,153 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\src\test\resources
+2019-09-17 10:10:09,797 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Development\workspaces\porto-seguro\demo-spring-boot\demo
+2019-09-17 10:10:09,798 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean compile
+2019-09-17 10:10:29,031 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-09-17 10:10:30,351 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.magna:demo:0.0.1-SNAPSHOT @ C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\pom.xml.
+2019-09-17 10:10:32,290 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2019-09-17 10:10:32,473 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/main/java
+2019-09-17 10:10:32,483 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2019-09-17 10:10:32,490 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2019-09-17 10:10:32,498 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/test/java
+2019-09-17 10:10:32,696 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2019-09-17 10:10:33,815 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2019-09-17 10:10:33,830 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 10:10:33,830 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-17 10:10:33,845 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-17 10:10:33,862 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 10:10:33,869 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\src\test\resources
+2019-09-17 10:13:20,543 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2019-09-17 10:13:20,554 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 10:13:20,565 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-17 10:13:20,574 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-17 10:13:20,583 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 10:13:20,583 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\src\test\resources
+2019-09-17 10:13:35,721 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2019-09-17 10:13:35,723 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 10:13:35,723 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-17 10:13:35,724 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-17 10:13:35,726 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 10:13:35,726 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\src\test\resources
+2019-09-17 10:14:41,861 [Worker-22] WARN  o.e.r.models.ModelRepository - Failed to download org.eclipse.recommenders:index::zip:0.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Could not transfer artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT from/to models (http://download.eclipse.org/recommenders/models/mars/): Connect to prxwg.portoseguro.brasil:3128 timed out
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:444) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:246) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:223) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:294) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:192) [org.eclipse.recommenders.models_2.3.0.v20160216-1255.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:174) [org.eclipse.recommenders.models_2.3.0.v20160216-1255.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:165) [org.eclipse.recommenders.models.rcp_2.3.0.v20160216-1255.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.3.0.v20160216-1255.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactTransferException: Could not transfer artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT from/to models (http://download.eclipse.org/recommenders/models/mars/): Connect to prxwg.portoseguro.brasil:3128 timed out
+	at org.eclipse.aether.connector.basic.ArtifactTransportListener.transferFailed(ArtifactTransportListener.java:43) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:355) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.util.concurrency.RunnableErrorForwarder$1.run(RunnableErrorForwarder.java:67) ~[na:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$DirectExecutor.execute(BasicRepositoryConnector.java:581) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector.get(BasicRepositoryConnector.java:249) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:520) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:421) ~[na:na]
+	... 8 common frames omitted
+Caused by: org.apache.http.conn.ConnectTimeoutException: Connect to prxwg.portoseguro.brasil:3128 timed out
+	at org.apache.http.conn.scheme.PlainSocketFactory.connectSocket(PlainSocketFactory.java:119) ~[na:na]
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:177) ~[na:na]
+	at org.apache.http.impl.conn.ManagedClientConnectionImpl.open(ManagedClientConnectionImpl.java:304) ~[na:na]
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:611) ~[na:na]
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:446) ~[na:na]
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:863) ~[na:na]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:72) ~[na:na]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:57) ~[na:na]
+	at org.apache.http.impl.client.DecompressingHttpClient.execute(DecompressingHttpClient.java:158) ~[na:na]
+	at org.eclipse.aether.transport.http.HttpTransporter.execute(HttpTransporter.java:287) ~[org.eclipse.aether.transport.http_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.transport.http.HttpTransporter.implGet(HttpTransporter.java:243) ~[org.eclipse.aether.transport.http_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.spi.connector.transport.AbstractTransporter.get(AbstractTransporter.java:59) ~[org.eclipse.aether.spi_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$GetTaskRunner.runTask(BasicRepositoryConnector.java:447) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:350) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	... 13 common frames omitted
+2019-09-17 12:20:26,802 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2019-09-17 12:20:26,818 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 12:20:26,819 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-17 12:20:26,830 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-17 12:20:26,833 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 12:20:26,841 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\src\test\resources
+2019-09-17 12:20:41,271 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2019-09-17 12:20:41,274 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 12:20:41,274 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-17 12:20:41,291 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-17 12:20:41,294 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 12:20:41,305 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\src\test\resources
+2019-09-17 12:21:06,548 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2019-09-17 12:21:06,569 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 12:21:06,582 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-17 12:21:06,602 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-17 12:21:06,605 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 12:21:06,614 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\src\test\resources
+2019-09-17 12:21:20,384 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2019-09-17 12:21:20,387 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 12:21:20,387 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-17 12:21:20,389 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-17 12:21:20,391 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 12:21:20,391 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\src\test\resources
+2019-09-17 12:22:23,312 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2019-09-17 12:22:23,329 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 12:22:23,331 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-17 12:22:23,339 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-17 12:22:23,341 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 12:22:23,347 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\src\test\resources
+2019-09-17 12:22:36,748 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2019-09-17 12:22:36,752 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 12:22:36,753 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-17 12:22:36,766 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-17 12:22:36,769 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 12:22:36,776 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\src\test\resources
+2019-09-17 12:23:05,311 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2019-09-17 12:23:05,330 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 12:23:05,345 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-17 12:23:05,355 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-17 12:23:05,359 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 12:23:05,365 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\src\test\resources
+2019-09-17 12:24:10,568 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2019-09-17 12:24:10,571 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 12:24:10,572 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-17 12:24:10,573 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-17 12:24:10,580 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 12:24:10,580 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\src\test\resources
+2019-09-17 12:24:40,693 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2019-09-17 12:24:40,703 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 12:24:40,704 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-17 12:24:40,716 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-17 12:24:40,720 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 12:24:40,727 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\src\test\resources
+2019-09-17 12:25:37,515 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2019-09-17 12:25:37,518 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 12:25:37,518 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-17 12:25:37,533 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-17 12:25:37,537 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 12:25:37,545 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\src\test\resources
+2019-09-17 12:26:52,622 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Development\workspaces\porto-seguro\demo-spring-boot\demo
+2019-09-17 12:26:52,634 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean compile
+2019-09-17 12:27:05,356 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2019-09-17 12:27:05,368 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 12:27:05,378 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-17 12:27:05,385 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-17 12:27:05,387 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 12:27:05,387 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\src\test\resources
+2019-09-17 12:31:07,329 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Development\workspaces\porto-seguro\demo-spring-boot\demo
+2019-09-17 12:31:07,343 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean compile
+2019-09-17 12:31:07,996 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2019-09-17 12:31:08,010 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 12:31:08,010 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-17 12:31:08,018 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-17 12:31:08,020 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 12:31:08,021 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\src\test\resources
+2019-09-17 12:59:23,053 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - No changes detected in schema or binding files - skipping source generation.
+2019-09-17 12:59:23,069 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 12:59:23,076 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-17 12:59:23,084 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-17 12:59:23,090 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-17 12:59:23,096 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Development\workspaces\porto-seguro\demo-spring-boot\demo\src\test\resources
